@@ -14,7 +14,7 @@
    echo('Hello Winnie');
 /*
 
-types of php variables
+types of variables in php
 -floats
 -integers
 -string
