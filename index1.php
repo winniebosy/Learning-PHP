@@ -10,8 +10,17 @@
 
 
 <?php
-
+//testing
    echo('Hello Winnie');
+/*
+
+types of php variables
+-floats
+-integers
+-string
+boolean
+
+ */
 
 ?>
     
