@@ -1,3 +1,17 @@
+
+
+<?php
+   //define a constant
+
+   define( "TITLE", " Variables and Constants");
+
+
+  ?>
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,11 +23,7 @@
 <body>
 
 
-<?php
 
-
-
-?>
     
 </body>
 </html>
