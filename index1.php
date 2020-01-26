@@ -11,7 +11,7 @@
 
 <?php
 //testing
-   echo('Hello Winnie');
+  
 /*
 
 types of variables in php
@@ -21,6 +21,15 @@ types of variables in php
 boolean
 
  */
+
+ 
+$myName =" Winnie Bosibori";
+$myAge  = 29;
+$favoriteColor ="White";
+
+echo("My name is $myName. <br>
+i am $myAge and my favorite color is $favoriteColor");
+
 
 ?>
     
