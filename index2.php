@@ -9,8 +9,8 @@
    //defining variables
 
    $myName ="Winnie Bosibori";
-   $myAge  ="29";
    $favoriteColor ="White";
+   $mybirthYear  ="29";
 
 
   ?>
