@@ -6,6 +6,13 @@
    define( "TITLE", " Variables and Constants");
 
 
+   //defining variables
+
+   $myName ="Winnie Bosibori";
+   $myAge  ="29";
+   $favoriteColor ="White";
+
+
   ?>
 
 
